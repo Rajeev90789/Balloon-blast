@@ -2,7 +2,7 @@
 
 ## Goal
 
-Blast as many balloons as you can
+Shoot as many balloons as you can
 
 ## Controls
 
