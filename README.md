@@ -1,4 +1,4 @@
-# Cannon shot
+# Balloon blast
 
 ## Goal
 
